@@ -15,7 +15,7 @@
 
 ### sensor-data (Reactクライアントのコード)
 
- [Reactクライアントのコードのレポジトリ](https://github.com/IoT-Arduino/sensor-data-display/tree/main/sensor-data)
+ [Reactクライアントのコードのレポジトリ](https://github.com/IoT-Arduino/awsiot-react-app/tree/main/sensor-data-client)
 
 
 ## アプリ機能概要
